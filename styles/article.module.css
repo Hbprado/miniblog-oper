@@ -1,0 +1,32 @@
+/* Article.module.css */
+
+.articleContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.articleTitle {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.articleAuthor {
+  font-style: italic;
+  color: #666;
+}
+
+.articlePublished {
+  color: #999;
+  margin-top: 10px;
+}
+
+.articleImage {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.articleContent {
+  margin-top: 20px;
+}
